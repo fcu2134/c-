@@ -1,0 +1,14 @@
+C:\Users\f_mrt\OneDrive\Escritorio\project_3_net\projecto3\bin\Debug\net8.0\projecto3.exe
+C:\Users\f_mrt\OneDrive\Escritorio\project_3_net\projecto3\bin\Debug\net8.0\projecto3.deps.json
+C:\Users\f_mrt\OneDrive\Escritorio\project_3_net\projecto3\bin\Debug\net8.0\projecto3.runtimeconfig.json
+C:\Users\f_mrt\OneDrive\Escritorio\project_3_net\projecto3\bin\Debug\net8.0\projecto3.dll
+C:\Users\f_mrt\OneDrive\Escritorio\project_3_net\projecto3\bin\Debug\net8.0\projecto3.pdb
+C:\Users\f_mrt\OneDrive\Escritorio\project_3_net\projecto3\obj\Debug\net8.0\projecto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f_mrt\OneDrive\Escritorio\project_3_net\projecto3\obj\Debug\net8.0\projecto3.AssemblyInfoInputs.cache
+C:\Users\f_mrt\OneDrive\Escritorio\project_3_net\projecto3\obj\Debug\net8.0\projecto3.AssemblyInfo.cs
+C:\Users\f_mrt\OneDrive\Escritorio\project_3_net\projecto3\obj\Debug\net8.0\projecto3.csproj.CoreCompileInputs.cache
+C:\Users\f_mrt\OneDrive\Escritorio\project_3_net\projecto3\obj\Debug\net8.0\projecto3.dll
+C:\Users\f_mrt\OneDrive\Escritorio\project_3_net\projecto3\obj\Debug\net8.0\refint\projecto3.dll
+C:\Users\f_mrt\OneDrive\Escritorio\project_3_net\projecto3\obj\Debug\net8.0\projecto3.pdb
+C:\Users\f_mrt\OneDrive\Escritorio\project_3_net\projecto3\obj\Debug\net8.0\projecto3.genruntimeconfig.cache
+C:\Users\f_mrt\OneDrive\Escritorio\project_3_net\projecto3\obj\Debug\net8.0\ref\projecto3.dll
